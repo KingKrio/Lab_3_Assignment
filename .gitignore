@@ -76,5 +76,10 @@ crashlytics-build.properties
 
 # Vuforia
 Packages/com.ptc.vuforia.engine-10.25.4.tgz
+Assets/Editor/Migration/AddVuforiaEnginePackage.cs
+Assets/Resources/
+Packages/manifest.json
+Packages/packages-lock.json
+ProjectSettings/ProjectSettings.asset
 
 # End of https://www.toptal.com/developers/gitignore/api/unity
